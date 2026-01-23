@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "857778603672",
+    "project_id": "city-vibes-8452e",
+    "storage_bucket": "city-vibes-8452e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857778603672:android:324a133863d8b6173772ed",
+        "android_client_info": {
+          "package_name": "com.example.city_vibes_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbPMv5JAEEmG6sRVusHF9B69JMXTKDhAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
